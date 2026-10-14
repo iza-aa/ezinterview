@@ -1,0 +1,4 @@
+[Pertanyaan]: "Apa fungsi utama dari sistem ini?"
+
+BACA LANGSUNG KE AUDIENS:
+"Sistem ini membantu menampilkan rangkuman dan poin contekan jawaban secara instan di layar melayang saat presentasi atau wawancara berlangsung."

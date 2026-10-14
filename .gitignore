@@ -1,0 +1,25 @@
+# Build artifacts
+iza-quote
+iza-quote.app/
+*.o
+*.dSYM/
+
+# Models (download via whisper.cpp)
+models/*
+!models/.gitkeep
+
+# Audio recordings
+audio/*
+!audio/.gitkeep
+
+# Runtime logs and cache
+bridge.log
+*.log
+.DS_Store
+
+# Status and temp
+status.json
+__pycache__/
+*.py[cod]
+venv/
+.env
